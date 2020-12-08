@@ -1,8 +1,8 @@
 Cancer model
 ========
-####A neural network implemented on the DASH platform that predicts the presence or absence of ovarian cancer.
+#### A neural network implemented on the DASH platform that predicts the presence or absence of ovarian cancer.
 
-Python libraries were used for this project:
+Python libraries were used in this project:
 * PyTorch
 * Sklearn
 * Pandas
